@@ -1,6 +1,5 @@
 Heyyy I'm Pavan! I'm a full-stack web developer skilled in MERN and Next.js. I do freelancing and contribute to open-source. Right now, I'm exploring WebSockets, webRTC and Web3. Let's connect if you have any project in your mind!
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-kumar-anupoju-351b12247/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mithabhashi__) 
 
 # 💻 Tech Stack:
