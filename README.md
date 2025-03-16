@@ -9,63 +9,57 @@ Heyyy I'm Pavan! I'm a full-stack web developer skilled in MERN and Next.js. I d
 [![](https://visitcount.itsvg.in/api?id=Pavan-personal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pavan</h1>
+<h1 align="center">Pavan Kumar</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+Next.js+Developer;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=ffffff&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+|+Next.js;WebSockets+|+WebRTC+|+Solana" alt="Typing SVG" />
 </div>
 
-## About Me
-- 🚀 Full-stack web developer specialized in MERN and Next.js
-- 💼 Freelancer with startup experience
-- 🌱 Currently exploring WebSockets, WebRTC and Web3
-- 👨‍💻 Open source contributor
-
-## Tech Stack
+<p align="center">
+Full-stack web developer with experience in the MERN stack and Next.js. I have worked on freelance projects, contributed to open-source, and gained hands-on experience in startup environments. Currently exploring WebRTC, real-time communications, and Solana development.
+</p>
 
 <div align="center">
-  
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  
-</div>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-personal&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-personal&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavan-personal&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <h2>Tech Stack</h2>
 </div>
 
-## Connect With Me
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,java,cpp" alt="Languages" />
+</div>
 
 <div align="center">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" alt="Frontend" />
+</div>
+
+<div align="center">
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" alt="Backend" />
+</div>
+
+<div align="center">
+  <h3>DevOps & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,docker,git,github" alt="DevOps and Cloud" />
+</div>
+
+<div align="center">
+  <h3>Currently Exploring</h3>
+  <img src="https://skillicons.dev/icons?i=solana,webrtc,web3" alt="Exploring" />
+</div>
+
+<div align="center">
+  <h2>Connect</h2>
   <a href="https://linkedin.com/in/pavan-kumar-anupoju-351b12247/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Mithabhashi__">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-</div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/Pavan-personal/Pavan-personal/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
 <div align="center">
