@@ -49,7 +49,9 @@ Full-stack web developer with experience in the MERN stack and Next.js. I have w
 
 <div align="center">
   <h3>Currently Exploring</h3>
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=solana,socketio,reactnative,django)
+   <img
+      src="[https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim](https://go-skill-icons.vercel.app/api/icons?i=solana,socketio,reactnative,django)"
+    />
 </div>
 
 <div align="center">
