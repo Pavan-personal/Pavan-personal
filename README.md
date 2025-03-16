@@ -13,10 +13,6 @@ Full-stack web developer with experience in the MERN stack and Next.js. I have w
 </div>
 
 <div align="center">
-  <h2>Tech Stack</h2>
-</div>
-
-<div align="center">
   <h3>Languages</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,rust,py" alt="Languages" />
 </div>
@@ -41,10 +37,4 @@ Full-stack web developer with experience in the MERN stack and Next.js. I have w
    <img
       src="https://go-skill-icons.vercel.app/api/icons?i=solana,socketio,reactnative,django"
     />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/pavan-kumar-anupoju-351b12247/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </div>
