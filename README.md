@@ -1,4 +1,4 @@
-<h1 align="center">Pavan Kumar Anupoju</h1>
+<div align="center" style="font-size: 24px; font-weight: bold;">Pavan Kumar Anupoju</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=ffffff&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+|+Next.js;WebSockets+|+WebRTC+|+Solana" alt="Typing SVG" />
