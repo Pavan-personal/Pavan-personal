@@ -29,17 +29,17 @@ Full-stack web developer with experience in the MERN stack and Next.js. I have w
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,java,cpp" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,py" alt="Languages" />
 </div>
 
 <div align="center">
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,redux,tailwind,materialui,html,css" alt="Frontend" />
 </div>
 
 <div align="center">
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redis" alt="Backend" />
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@ Full-stack web developer with experience in the MERN stack and Next.js. I have w
 
 <div align="center">
   <h3>Currently Exploring</h3>
-  <img src="https://skillicons.dev/icons?i=solana,webrtc,web3" alt="Exploring" />
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=solana,socketio,reactnative,django)
 </div>
 
 <div align="center">
